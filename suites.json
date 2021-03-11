@@ -1,0 +1,7 @@
+{
+    "angularjsspec" : "../temp/test-suites/first-test.spec.js",
+    "jsonspec" : "../temp/test-suites/json-file-operation.spec.js",
+    "superpec" : "../temp/test-suites/super-calculator.spec.js"
+
+    
+}

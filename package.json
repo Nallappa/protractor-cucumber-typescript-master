@@ -1,0 +1,76 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "This is Test Automation framework designed using Protractor, Jasmine and TypeScript",
+  "homepage": "https://github.com/qaloop/protractor-jasmine-typescript",
+  "main": "conf.js",
+  "dependencies": {
+    "allure-commandline": "^2.13.8",
+    "axios": "^0.21.1",
+    "crypto-js": "^4.0.0",
+    "exceljs": "^1.15.0",
+    "https": "^1.0.0",
+    "jasmine": "^3.6.4",
+    "jasmine-allure-reporter": "~0.2.3",
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-json-test-reporter": "^1.0.0-beta",
+    "jasmine-reporters": "^2.3.2",
+    "jasmine-spec-reporter": "^6.0.0",
+    "jasmine2-protractor-utils": "^1.3.0",
+    "mysql": "^2.18.1",
+    "nodemailer": "^0.7.1",
+    "papaparse": "^4.6.3",
+    "protractor": "^5.4.4",
+    "protractor-beautiful-reporter": "^1.3.6",
+    "protractor-html-reporter-2": "^1.0.4",
+    "sendmail": "^1.6.1",
+    "typescript": "^3.9.9",
+    "webdriver-manager": "^12.1.8",
+    "winston": "^3.3.3",
+    "xlsx": "^0.16.9"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^3.6.6",
+    "@types/jasminewd2": "^2.0.8",
+    "@types/node": "^14.14.33",
+    "rimraf": "^2.7.1",
+    "tslint": "^5.20.1"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "report1": "allure generate allure-results allure-report-html",
+    "report": "allure generate allure-results --clean -o allure-report || true",
+    "clean": "rimraf temp/ && rimraf download/",
+    "webdriver-update": "node node_modules/protractor/bin/webdriver-manager update",
+    "compile": "npm run clean && npm run tsc",
+    "testHeadLess": "npm run clean && npm run tsc && protractor temp/conf.js --capabilities.chromeOptions.args=--headless",
+    "test": "npm run clean && npm run tsc && protractor temp/conf.js --suite=%npm_package_config_suites% --capabilities.sharedTestFiles=true --capabilities.maxInstances=%npm_package_config_maxInstances%",
+    "test1": "npm run clean && npm run tsc && protractor temp/conf.js  --suite=%npm_package_config_suites% --capabilities.maxInstances=%npm_package_config_maxInstances%"
+  },
+  "config": {
+    "username": "user",
+    "password": "password",
+    "suites": "jsonspec",
+    "suites1": "angularjsspec,jsonspec,superpec",
+    "maxInstances": 3
+  },
+  "keywords": [
+    "protractor",
+    "jasmine",
+    "typescript",
+    "javascript",
+    "angular",
+    "angularjs",
+    "vscode",
+    "testing",
+    "selenium",
+    "webdriverJS",
+    "automation testing"
+  ],
+  "author": "Learning 2 Test",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qaloop/protractor-jasmine-typescript.git"
+  }
+}

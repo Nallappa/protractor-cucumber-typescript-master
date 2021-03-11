@@ -1,0 +1,937 @@
+[32minfo: 08:57:34 GMT+0530 (India Standard Time)MessageUser is navigated to AngularJS Website[39m
+[32minfo: 09:01:06 GMT+0530 (India Standard Time)Message./temp/test-suites/dbconnection.spec.js[39m
+[32minfo: 09:01:06 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 09:01:06 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 09:01:09 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 09:01:10 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 09:02:06 GMT+0530 (India Standard Time)Message./temp/test-suites/dbconnection.spec.js[39m
+[32minfo: 09:02:06 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 09:02:06 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 09:02:09 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 09:02:09 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 09:02:27 GMT+0530 (India Standard Time)Message./temp/test-suites/dbconnection.spec.js[39m
+[32minfo: 09:02:27 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 09:02:27 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 09:02:30 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 09:02:30 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 09:04:24 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 09:04:24 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 09:04:24 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 09:04:27 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 09:04:27 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 09:07:03 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 09:07:03 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 09:07:03 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 09:07:06 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 09:07:06 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 09:21:01 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 09:21:01 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 09:21:01 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 09:21:05 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 09:21:50 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 09:36:12 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 09:36:12 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 09:36:12 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 09:36:15 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 09:36:15 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 09:36:20 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 11:13:42 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 11:13:42 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 11:13:42 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 11:13:45 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 11:13:46 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 11:13:50 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:05:59 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:05:59 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:05:59 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:06:03 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:06:03 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:06:15 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:15:00 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:15:00 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:15:00 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:15:04 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:15:04 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:15:10 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:16:08 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:16:08 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:16:08 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:16:11 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:16:11 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:16:16 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:16:37 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:16:37 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:16:37 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:16:40 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:16:40 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:16:45 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:17:28 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:17:28 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:17:28 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:17:31 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:17:31 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:25:56 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:25:57 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:25:57 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:25:59 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:26:00 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:28:40 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:28:40 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:28:40 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:28:43 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:28:44 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:29:17 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:29:17 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:29:17 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:29:20 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:29:27 GMT+0530 (India Standard Time)MessageUser is navigated to AngularJS Website[39m
+[32minfo: 14:29:27 GMT+0530 (India Standard Time)MessageBrowser window width: 1552[39m
+[32minfo: 14:29:27 GMT+0530 (India Standard Time)MessageBrowser window height: 840[39m
+[32minfo: 14:29:28 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:29:29 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:32:06 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:32:06 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:32:06 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:32:10 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:32:10 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:32:10 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:32:28 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:32:28 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:32:28 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:32:31 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:32:38 GMT+0530 (India Standard Time)MessageUser is navigated to AngularJS Website[39m
+[32minfo: 14:32:50 GMT+0530 (India Standard Time)MessageBrowser window width: 1552[39m
+[32minfo: 17:17:23 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:17:23 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:17:23 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:17:27 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:17:28 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:20:22 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:20:22 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:20:22 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:20:25 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:20:25 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:20:57 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:20:57 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:20:57 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:20:59 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:21:14 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:21:14 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:22:56 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:22:56 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:22:56 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:22:58 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:23:04 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:23:04 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:24:02 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:24:02 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:24:02 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:24:06 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:27:43 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:27:43 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:27:43 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:27:46 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:29:14 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:29:15 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:33:42 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:33:42 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:33:42 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:33:45 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:36:27 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:36:27 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:36:27 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:36:30 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:36:37 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:36:38 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:36:55 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:36:55 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:36:55 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:36:58 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:37:05 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:37:06 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:37:24 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:37:24 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:37:24 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:37:27 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:37:32 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:37:33 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:38:04 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:38:05 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:38:05 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:38:07 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:38:13 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:38:13 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:38:38 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:38:38 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:38:38 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:38:41 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:39:44 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:39:44 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:39:44 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:39:47 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:39:56 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:39:57 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:41:07 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:41:07 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:41:07 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:41:10 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:43:52 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:47:26 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:47:26 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:47:26 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:47:33 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:47:45 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:47:46 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:50:33 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:50:33 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:50:33 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:50:37 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:50:44 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:50:45 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:52:57 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:52:57 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:52:57 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:53:01 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:53:11 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:53:12 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:55:11 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:55:11 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:55:11 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:55:15 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:55:36 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:55:36 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 17:56:52 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 17:56:52 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 17:56:52 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 17:56:55 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 17:57:21 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 17:57:21 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:06:11 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:06:11 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:06:11 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:06:16 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:06:29 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:06:29 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:08:27 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:08:27 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:08:27 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:08:30 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:08:42 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:08:42 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:10:22 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:10:22 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:10:22 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:10:26 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:10:36 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:10:37 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:11:54 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:11:54 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:11:54 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:11:58 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:12:01 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:12:01 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:12:28 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:12:28 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:12:28 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:12:32 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:13:07 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:13:07 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:15:53 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:15:53 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:15:53 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:15:56 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:15:58 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:15:58 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:16:11 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:16:11 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:16:11 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:16:13 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:18:50 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:18:50 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:18:50 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:18:52 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:18:55 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:18:55 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:21:10 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:21:10 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:21:10 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:21:13 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:21:15 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:21:15 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:21:29 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:21:29 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:21:29 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:21:31 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:21:34 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:21:34 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:22:59 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:22:59 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:22:59 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:23:02 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:23:06 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:23:06 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 13:42:06 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 13:42:06 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 13:42:06 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 13:42:09 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 13:42:11 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 13:42:12 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 13:43:51 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 13:43:51 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 13:43:51 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 13:43:53 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 13:43:56 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 13:43:57 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 15:58:13 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 15:58:13 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 15:58:13 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 15:58:16 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 15:58:19 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 15:58:20 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 16:31:52 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 16:31:52 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 16:31:52 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 16:31:55 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 16:31:59 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 16:31:59 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 16:33:25 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 16:33:25 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 16:33:25 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 16:33:28 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 16:34:44 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 16:34:44 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 16:34:44 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 16:34:46 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 16:34:49 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 16:34:49 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 16:36:17 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 16:36:17 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 16:36:17 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 16:36:19 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[31merror: 16:36:21 GMT+0530 (India Standard Time)MessageError while getting the Textvalues of the elementa : Error TypeError: element.scrollIntoView is not a function[39m
+[32minfo: 16:36:22 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 16:36:22 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 16:38:58 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 16:38:58 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 16:38:58 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 16:39:00 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 16:39:35 GMT+0530 (India Standard Time)MessageThe values are Time,Expression,Result[39m
+[32minfo: 16:39:36 GMT+0530 (India Standard Time)MessageThe count is 3[39m
+[32minfo: 16:39:40 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 16:39:40 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 16:39:55 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 16:39:55 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 16:39:55 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 16:39:56 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 16:40:00 GMT+0530 (India Standard Time)MessageThe values are Time,Expression,Result[39m
+[32minfo: 16:40:00 GMT+0530 (India Standard Time)MessageThe count is 3[39m
+[32minfo: 16:40:01 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 16:40:01 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:36:42 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:36:42 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:36:42 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:36:44 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:36:46 GMT+0530 (India Standard Time)MessageThe values are Time,Expression,Result[39m
+[32minfo: 18:36:46 GMT+0530 (India Standard Time)MessageThe count is 3[39m
+[32minfo: 18:36:46 GMT+0530 (India Standard Time)MessageDb Connection Starts}[39m
+[31merror: 18:36:46 GMT+0530 (India Standard Time)MessageError while fetching the details from the db for sqlQurey undefined and Error : TypeError: Cannot read property 'query' of undefined[39m
+[32minfo: 18:36:47 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:36:47 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:38:21 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:38:21 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:38:21 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:38:24 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:38:28 GMT+0530 (India Standard Time)MessageThe values are Time,Expression,Result[39m
+[32minfo: 18:38:28 GMT+0530 (India Standard Time)MessageThe count is 3[39m
+[32minfo: 18:38:28 GMT+0530 (India Standard Time)MessageDb Connection Starts}[39m
+[31merror: 18:38:28 GMT+0530 (India Standard Time)MessageError while fetching the details from the db for sqlQurey undefined and Error : TypeError: Cannot read property 'query' of undefined[39m
+[32minfo: 18:38:28 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:38:29 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:47:05 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:47:05 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:47:05 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:47:08 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:47:10 GMT+0530 (India Standard Time)MessageDb Connection Starts}[39m
+[32minfo: 18:50:26 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:50:26 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:50:26 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:50:28 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:50:32 GMT+0530 (India Standard Time)MessageDb Connection Starts}[39m
+[32minfo: 18:50:32 GMT+0530 (India Standard Time)MessageThe db results are [object Object][39m
+[32minfo: 18:50:32 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:50:32 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:52:59 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:52:59 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:52:59 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:53:01 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:53:05 GMT+0530 (India Standard Time)MessageThe values are Time,Expression,Result[39m
+[32minfo: 18:53:05 GMT+0530 (India Standard Time)MessageThe count is 3[39m
+[32minfo: 18:53:05 GMT+0530 (India Standard Time)MessageDb Connection Starts}[39m
+[32minfo: 18:53:05 GMT+0530 (India Standard Time)MessageThe db results are [object Object][39m
+[32minfo: 18:53:05 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:53:05 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:53:47 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:53:47 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:53:47 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:53:48 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:53:51 GMT+0530 (India Standard Time)MessageThe values are Time,Expression,Result[39m
+[32minfo: 18:53:51 GMT+0530 (India Standard Time)MessageThe count is 3[39m
+[32minfo: 18:53:51 GMT+0530 (India Standard Time)MessageDb Connection Starts}[39m
+[32minfo: 18:53:51 GMT+0530 (India Standard Time)MessageThe db results are [object Object][39m
+[32minfo: 18:53:51 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:53:51 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 18:55:32 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 18:55:32 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 18:55:32 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 18:55:33 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 18:55:41 GMT+0530 (India Standard Time)MessageThe values are Time,Expression,Result[39m
+[32minfo: 18:55:41 GMT+0530 (India Standard Time)MessageThe count is 3[39m
+[32minfo: 18:55:41 GMT+0530 (India Standard Time)MessageDb Connection Starts}[39m
+[32minfo: 18:56:36 GMT+0530 (India Standard Time)MessageThe db results are [object Object][39m
+[32minfo: 18:57:09 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 18:57:09 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 12:49:38 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 12:49:38 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 12:49:38 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 12:49:41 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 12:49:45 GMT+0530 (India Standard Time)MessageThe values are Time,Expression,Result[39m
+[32minfo: 12:49:45 GMT+0530 (India Standard Time)MessageThe count is 3[39m
+[32minfo: 12:49:45 GMT+0530 (India Standard Time)MessageDb Connection Starts}[39m
+[32minfo: 12:49:51 GMT+0530 (India Standard Time)MessageThe db results are [object Object][39m
+[32minfo: 12:49:53 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 12:49:53 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 13:47:49 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 13:47:49 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 13:47:49 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 13:47:51 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[31merror: 13:47:55 GMT+0530 (India Standard Time)MessageError while connecting to DB error: ReferenceError: get is not defined[39m
+[32minfo: 13:47:56 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 13:47:56 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 13:50:47 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 13:50:47 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 13:50:47 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 13:50:49 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 13:50:53 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 13:50:53 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 13:53:19 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 13:53:19 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 13:53:19 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 13:53:21 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 13:53:26 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 13:53:27 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 15:15:46 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 15:15:46 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 15:15:46 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 15:15:48 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 15:15:55 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 15:15:56 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 15:19:09 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 15:19:09 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 15:19:09 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 15:19:12 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 15:19:17 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 15:19:17 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 15:25:35 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 15:25:35 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 15:25:35 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 15:25:38 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 15:25:43 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 15:25:43 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 15:38:05 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 15:38:05 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 15:38:05 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 15:38:10 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 15:38:16 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 15:38:16 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 15:40:52 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 15:40:52 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 15:40:52 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 15:40:55 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 15:40:59 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 15:40:59 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 09:32:26 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 09:32:26 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 09:32:26 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 09:32:29 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 09:32:31 GMT+0530 (India Standard Time)MessageThe values are Time,Expression,Result[39m
+[32minfo: 09:32:31 GMT+0530 (India Standard Time)MessageThe count is 3[39m
+[32minfo: 09:32:31 GMT+0530 (India Standard Time)MessageDb Connection Starts}[39m
+[32minfo: 09:32:31 GMT+0530 (India Standard Time)MessageThe db results are [object Object][39m
+[32minfo: 09:32:31 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 09:32:32 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 09:40:46 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 09:40:46 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 09:40:46 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 09:40:49 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 09:40:51 GMT+0530 (India Standard Time)MessageThe values are Time,Expression,Result[39m
+[32minfo: 09:40:51 GMT+0530 (India Standard Time)MessageThe count is 3[39m
+[32minfo: 09:40:51 GMT+0530 (India Standard Time)MessageDb Connection Starts}[39m
+[32minfo: 09:40:51 GMT+0530 (India Standard Time)MessageThe db results are [object Object][39m
+[32minfo: 09:40:51 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 09:40:52 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 09:41:59 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 09:41:59 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 09:41:59 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 09:42:01 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 09:42:07 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 09:42:07 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 09:43:50 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 09:43:50 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 09:43:50 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 09:43:53 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 09:43:58 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 09:43:59 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 09:59:40 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:00:03 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:00:06 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:00:09 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:00:32 GMT+0530 (India Standard Time)Message./temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:00:32 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:00:32 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:00:34 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:00:34 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:00:35 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:03:30 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:03:30 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:03:30 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:03:33 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:03:33 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:03:39 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:05:08 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:05:13 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:05:15 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:05:17 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:05:21 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:05:22 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:12:31 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:12:31 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:12:31 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:12:31 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:12:31 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:12:34 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:12:36 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:12:37 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:13:53 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:13:53 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:13:53 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:13:53 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:13:53 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:13:56 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:14:00 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:14:01 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:15:16 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:15:16 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:15:16 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:15:16 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:15:16 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:15:19 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:15:23 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:15:23 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:17:28 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:17:28 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:17:28 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:17:28 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:17:28 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:17:30 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:17:34 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:17:34 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:18:11 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:18:11 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:18:11 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:18:11 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:18:11 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:18:13 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:18:17 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:18:17 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:19:42 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:19:42 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:19:42 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:19:42 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:19:42 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:19:44 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:19:48 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:19:48 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:21:23 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:21:23 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:21:23 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:21:23 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:21:23 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:21:26 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:21:28 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:21:28 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:24:17 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:24:17 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:24:17 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:24:17 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:24:17 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:24:19 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:24:22 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:24:23 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:25:30 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:25:30 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:25:30 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:25:30 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:25:30 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:25:32 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:25:35 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:25:36 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:26:16 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:26:16 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:26:16 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:26:16 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:26:16 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:26:19 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:26:22 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:26:23 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:27:15 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:27:15 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:27:15 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:27:15 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:27:15 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:27:16 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:27:16 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:27:16 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:27:16 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:27:16 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:27:16 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:27:16 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:27:16 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:27:18 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:27:21 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:27:25 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:27:27 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:27:29 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:28:01 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:28:01 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:28:01 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:28:01 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:28:01 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:28:03 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:28:09 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:28:09 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:32:36 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:32:36 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:32:36 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:32:36 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:32:36 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:32:38 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:32:41 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:32:42 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:33:42 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:33:42 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:33:42 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:33:42 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:33:42 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:33:45 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:33:47 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:33:48 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:35:23 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:35:23 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:35:23 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:35:23 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:35:26 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:35:28 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:35:42 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:35:42 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:36:05 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:36:05 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:36:05 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:36:07 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:36:40 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:36:42 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:36:55 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:36:55 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:38:39 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:38:39 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:38:39 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:38:39 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:38:39 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:38:41 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:38:44 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:38:44 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:39:10 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:39:10 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:39:10 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:39:10 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:39:10 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:39:12 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:39:14 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:39:15 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:40:13 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:40:13 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:40:13 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:40:13 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:40:13 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:40:15 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:40:15 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:40:16 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:44:13 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:44:13 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:44:13 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:44:13 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:44:13 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:44:16 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:44:19 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:44:20 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:45:40 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:45:40 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:45:40 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:45:40 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:45:40 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:45:42 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:45:44 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:45:45 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:47:57 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:47:57 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:47:57 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:47:57 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:47:57 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:48:00 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:48:03 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:48:04 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:50:16 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:50:16 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:50:16 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:50:16 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:50:16 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:50:18 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:50:21 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:50:21 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:52:57 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:52:57 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:52:57 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:52:57 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:52:57 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:52:59 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:53:02 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:53:03 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:55:09 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:55:09 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:55:09 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:55:09 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:55:09 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:55:11 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:55:16 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:55:17 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:58:44 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:58:44 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:58:44 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:58:44 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:58:44 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:58:46 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:58:50 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:58:50 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 10:59:33 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 10:59:33 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 10:59:33 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 10:59:33 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 10:59:33 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 10:59:35 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 10:59:38 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 10:59:38 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 11:01:20 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 11:01:20 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 11:01:20 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 11:01:20 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 11:01:20 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 11:01:22 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 11:01:24 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 11:01:25 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 11:01:40 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 11:01:40 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 11:01:40 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 11:01:40 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 11:01:40 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 11:01:42 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 11:01:47 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 11:01:48 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 11:02:22 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 11:02:22 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 11:02:22 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 11:02:22 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 11:02:22 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 11:02:24 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 11:02:27 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 11:02:27 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 11:04:07 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 11:04:07 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 11:04:07 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 11:04:07 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 11:04:07 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 11:04:09 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 11:04:11 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 11:04:11 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 11:06:22 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 11:06:22 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 11:06:22 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 11:06:22 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 11:06:22 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 11:06:24 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 11:06:26 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 11:06:26 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 11:07:18 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 11:07:18 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 11:07:18 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 11:07:18 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 11:07:18 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 11:07:20 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 11:07:22 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 11:07:22 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 11:08:06 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 11:08:06 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 11:08:06 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 11:08:06 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 11:08:06 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 11:08:08 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 11:08:31 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 11:08:31 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 11:10:00 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 11:10:00 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 11:10:00 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 11:10:00 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 11:10:00 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 11:10:02 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 11:10:22 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 11:10:22 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 11:11:08 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 11:11:08 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 11:11:08 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 11:11:08 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 11:11:08 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 11:11:10 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 11:11:30 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 11:11:31 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 11:13:10 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 11:13:10 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 11:13:10 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 11:13:10 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 11:13:10 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 11:13:12 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 11:13:18 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 11:13:18 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 11:15:03 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 11:15:03 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 11:15:03 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 11:15:03 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 11:15:03 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 11:15:05 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 11:15:11 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 11:15:11 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 11:15:29 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 11:15:29 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 11:15:29 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 11:15:29 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 11:15:29 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 11:15:31 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 11:15:51 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 11:15:51 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 13:37:28 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 13:37:28 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 13:37:28 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 13:37:28 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 13:37:28 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 13:37:31 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 13:37:34 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 13:37:34 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 13:38:30 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 13:38:30 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 13:38:30 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 13:38:30 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 13:38:30 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 13:38:32 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 13:38:36 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 13:38:36 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:03:15 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:03:15 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 14:03:15 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 14:03:15 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:03:15 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:03:17 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:03:21 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:03:21 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:10:27 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:10:27 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 14:10:27 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 14:10:27 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:10:27 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:10:30 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:10:35 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:10:35 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:12:46 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:12:46 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 14:12:46 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 14:12:46 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:12:46 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:12:48 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:12:52 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:12:52 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:32:25 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:32:25 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 14:32:25 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 14:32:25 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:32:25 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:32:28 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:32:39 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:32:39 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:34:03 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:34:03 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 14:34:03 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 14:34:03 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:34:03 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:34:06 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:34:22 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:34:22 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:51:18 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:51:18 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 14:51:18 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 14:51:18 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:51:18 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:51:21 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:51:24 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:51:25 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:55:43 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:55:43 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 14:55:43 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 14:55:43 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:55:43 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:55:46 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:55:48 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:57:12 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:57:12 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 14:57:12 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 14:57:12 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:57:12 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:57:15 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:57:17 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:58:35 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:58:35 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 14:58:35 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 14:58:35 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:58:35 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:58:38 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:58:40 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:58:41 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 15:03:49 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 15:03:49 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 15:03:49 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 15:03:49 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 15:03:49 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 15:03:51 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 15:03:55 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 15:03:56 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 09:11:05 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 09:11:05 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 09:11:05 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 09:11:05 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 09:11:05 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 09:11:08 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 09:11:11 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 09:11:12 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 09:12:40 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 09:12:40 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 09:12:40 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 09:12:40 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 09:12:40 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 09:12:43 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 09:12:49 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 09:12:50 GMT+0530 (India Standard Time)MessageThis is in after launch[39m

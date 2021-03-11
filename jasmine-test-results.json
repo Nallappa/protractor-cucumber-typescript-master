@@ -1,0 +1,78 @@
+{
+    "suite1": {
+        "id": "suite1",
+        "description": "JSON File Operation Tests: ",
+        "fullName": "JSON File Operation Tests: ",
+        "failedExpectations": [],
+        "status": "finished",
+        "specs": [
+            {
+                "id": "spec2",
+                "description": "Testing Dataprovider",
+                "fullName": "JSON File Operation Tests:  Testing Dataprovider",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed",
+                "started": "2021-03-10T03:42:48.326Z",
+                "stopped": "2021-03-10T03:42:48.328Z",
+                "browserLogs": [
+                    {
+                        "level": "SEVERE",
+                        "message": "https://juliemr.github.io/favicon.ico - Failed to load resource: the server responded with a status of 404 ()",
+                        "timestamp": 1615347768332,
+                        "type": ""
+                    }
+                ]
+            },
+            {
+                "id": "spec3",
+                "description": "Testing Dataprovider",
+                "fullName": "JSON File Operation Tests:  Testing Dataprovider",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed",
+                "started": "2021-03-10T03:42:48.780Z",
+                "stopped": "2021-03-10T03:42:48.783Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec4",
+                "description": "Testing Dataprovider",
+                "fullName": "JSON File Operation Tests:  Testing Dataprovider",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "",
+                "status": "passed",
+                "started": "2021-03-10T03:42:49.090Z",
+                "stopped": "2021-03-10T03:42:49.091Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec0",
+                "description": "As a user I can read data from JSON file",
+                "fullName": "JSON File Operation Tests:  As a user I can read data from JSON file",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "Temporarily disabled with xit",
+                "status": "disabled",
+                "started": "2021-03-10T03:42:49.453Z",
+                "stopped": "2021-03-10T03:42:49.454Z",
+                "browserLogs": []
+            },
+            {
+                "id": "spec1",
+                "description": "Testing Webservices",
+                "fullName": "JSON File Operation Tests:  Testing Webservices",
+                "failedExpectations": [],
+                "passedExpectations": [],
+                "pendingReason": "Temporarily disabled with xit",
+                "status": "disabled",
+                "started": "2021-03-10T03:42:49.472Z",
+                "stopped": "2021-03-10T03:42:49.472Z",
+                "browserLogs": []
+            }
+        ]
+    }
+}

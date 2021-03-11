@@ -1,0 +1,46 @@
+{
+  "uid" : "d5eff2532423adb",
+  "name" : "As a user I can read data from JSON file",
+  "fullName" : "JSON File Operation Tests: .As a user I can read data from JSON file",
+  "historyId" : "728f21c6914e59b785116fc25ac129b2",
+  "time" : {
+    "start" : 1615192972545,
+    "stop" : 1615192972546,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "JSON File Operation Tests: "
+  }, {
+    "name" : "testClass",
+    "value" : "JSON File Operation Tests: "
+  }, {
+    "name" : "testMethod",
+    "value" : "As a user I can read data from JSON file"
+  }, {
+    "name" : "package",
+    "value" : "JSON File Operation Tests: "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5eff2532423adb.json",
+  "parameterValues" : [ ]
+}

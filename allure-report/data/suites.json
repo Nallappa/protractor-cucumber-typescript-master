@@ -1,0 +1,48 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "JSON File Operation Tests: ",
+    "children" : [ {
+      "name" : "Testing Dataprovider",
+      "uid" : "bfee2174e0f0cabc",
+      "parentUid" : "9e8cf0294192ba26319be7d0f666e0d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615194262164,
+        "stop" : 1615194262456,
+        "duration" : 292
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "As a user I can read data from JSON file",
+      "uid" : "5796371b803468eb",
+      "parentUid" : "9e8cf0294192ba26319be7d0f666e0d7",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1615194262456,
+        "stop" : 1615194262457,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Testing Webservices",
+      "uid" : "ddac054ca7675eda",
+      "parentUid" : "9e8cf0294192ba26319be7d0f666e0d7",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1615194262457,
+        "stop" : 1615194262457,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9e8cf0294192ba26319be7d0f666e0d7"
+  } ]
+}

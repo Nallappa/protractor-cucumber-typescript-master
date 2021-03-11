@@ -1,0 +1,61 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1615194261516' stop='1615194262457'>
+    <name>JSON File Operation Tests: </name>
+    <title>JSON File Operation Tests: </title>
+    <test-cases>
+        <test-case start='1615194261517' status='passed' stop='1615194261875'>
+            <name>Testing Dataprovider</name>
+            <title>Testing Dataprovider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='0102dd6c-aa14-4767-8b2e-41af3872ebaf-attachment.png' type='image/png' size='20199'/>
+            </attachments>
+        </test-case>
+        <test-case start='1615194261875' status='passed' stop='1615194262164'>
+            <name>Testing Dataprovider</name>
+            <title>Testing Dataprovider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='abb5537d-054b-4dca-8db3-2043f98508df-attachment.png' type='image/png' size='20199'/>
+            </attachments>
+        </test-case>
+        <test-case start='1615194262164' status='passed' stop='1615194262456'>
+            <name>Testing Dataprovider</name>
+            <title>Testing Dataprovider</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1937fd02-5b29-49e1-b37e-997049062bf7-attachment.png' type='image/png' size='20199'/>
+            </attachments>
+        </test-case>
+        <test-case start='1615194262456' status='pending' stop='1615194262457'>
+            <name>As a user I can read data from JSON file</name>
+            <title>As a user I can read data from JSON file</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615194262457' status='pending' stop='1615194262457'>
+            <name>Testing Webservices</name>
+            <title>Testing Webservices</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

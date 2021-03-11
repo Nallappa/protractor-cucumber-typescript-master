@@ -1,0 +1,60 @@
+{
+  "uid" : "c9e87bfa2791374e",
+  "name" : "Testing Dataprovider",
+  "fullName" : "JSON File Operation Tests: .Testing Dataprovider",
+  "historyId" : "5e6c93e289be5c028e709bdf7f9aa608",
+  "time" : {
+    "start" : 1615194261517,
+    "stop" : 1615194261875,
+    "duration" : 358
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e9c283f6611a9f4c",
+      "name" : "Screenshot",
+      "source" : "e9c283f6611a9f4c.png",
+      "type" : "image/png",
+      "size" : 20199
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "JSON File Operation Tests: "
+  }, {
+    "name" : "testClass",
+    "value" : "JSON File Operation Tests: "
+  }, {
+    "name" : "testMethod",
+    "value" : "Testing Dataprovider"
+  }, {
+    "name" : "package",
+    "value" : "JSON File Operation Tests: "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9e87bfa2791374e.json",
+  "parameterValues" : [ ]
+}

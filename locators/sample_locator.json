@@ -1,0 +1,10 @@
+{
+    "testelement": {
+        "locatorType" : "model",
+        "locatorValue": "first"
+    },
+    "testelement1": {
+        "locatorType" : "xpath",
+        "locatorValue": "//table[@class='table']//th"
+    }
+}

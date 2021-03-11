@@ -1,0 +1,46 @@
+{
+    "domain": "nalli",
+    "url": "https://juliemr.github.io/protractor-demo/",
+    "testelement": {
+        "locatorType" : "model",
+        "locatorValue": "first"
+    },
+     "options" : {
+        "method" : "get",
+        "url" : "https://reqres.in/api/users?page=2",
+         "headers" : {
+             "Accept" : "application/json",
+             "Content-Type" : "application/json"
+         }
+    },
+    "optionspost" : {
+        "method" : "post",
+        "url" : "https://reqres.in/api/users",
+        "body": {
+            "name" :"Nalli",
+            "job" : "Legend"
+
+        },
+         "headers" : {
+             "Accept" : "application/json",
+             "Content-Type" : "application/json"
+         }
+    },
+    "optionsput" : {
+        "method" : "post",
+        "url" : "https://reqres.in/api/users?page=2",
+        "body": {
+            "name" :"Nalli",
+            "job" : "Loves Cricket"
+
+        },
+         "headers" : {
+             "Accept" : "application/json",
+             "Content-Type" : "application/json"
+         }
+    }
+ 
+ 
+
+
+}

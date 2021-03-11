@@ -1,0 +1,33 @@
+{
+	"compilerOptions": {
+		"target": "es2017",
+		"lib": [
+			"es2017",
+			"dom"
+		],
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"sourceMap": false,
+		"inlineSourceMap": true,
+		"declaration": true,
+		"removeComments": false,
+		"noImplicitAny": false,
+		"outDir": "temp",
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
+		"types": [
+			"jasmine",
+			"node",
+			"protractor"
+		]
+	},
+	"skipLibCheck" : true,
+	"exclude": [
+		"node_modules"
+	],
+	"plugins" : [
+		{
+		 "name": "typescript-tslint-plugin"
+		}
+	  ]
+}

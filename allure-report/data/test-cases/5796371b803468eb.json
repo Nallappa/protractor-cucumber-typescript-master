@@ -1,0 +1,66 @@
+{
+  "uid" : "5796371b803468eb",
+  "name" : "As a user I can read data from JSON file",
+  "fullName" : "JSON File Operation Tests: .As a user I can read data from JSON file",
+  "historyId" : "728f21c6914e59b785116fc25ac129b2",
+  "time" : {
+    "start" : 1615194262456,
+    "stop" : 1615194262457,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "This test was ignored",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "JSON File Operation Tests: "
+  }, {
+    "name" : "testClass",
+    "value" : "JSON File Operation Tests: "
+  }, {
+    "name" : "testMethod",
+    "value" : "As a user I can read data from JSON file"
+  }, {
+    "name" : "package",
+    "value" : "JSON File Operation Tests: "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3991983ad8fad3a0",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1615194159552,
+        "stop" : 1615194159552,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d5eff2532423adb",
+      "status" : "skipped",
+      "statusDetails" : "This test was ignored",
+      "time" : {
+        "start" : 1615192972545,
+        "stop" : 1615192972546,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5796371b803468eb.json",
+  "parameterValues" : [ ]
+}

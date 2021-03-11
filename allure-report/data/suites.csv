@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Mar 08 14:34:22 IST 2021","Mon Mar 08 14:34:22 IST 2021","292","","JSON File Operation Tests: ","","JSON File Operation Tests: ","Testing Dataprovider","Testing Dataprovider",""
+"skipped","Mon Mar 08 14:34:22 IST 2021","Mon Mar 08 14:34:22 IST 2021","1","","JSON File Operation Tests: ","","JSON File Operation Tests: ","As a user I can read data from JSON file","As a user I can read data from JSON file",""
+"skipped","Mon Mar 08 14:34:22 IST 2021","Mon Mar 08 14:34:22 IST 2021","0","","JSON File Operation Tests: ","","JSON File Operation Tests: ","Testing Webservices","Testing Webservices",""
