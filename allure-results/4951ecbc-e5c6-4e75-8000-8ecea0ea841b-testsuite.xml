@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1617175332145" stop="1617175332530">
+	<name>JSON File Operation Tests: </name>
+	<title>JSON File Operation Tests: </title>
+	<test-cases>
+		<test-case start="1617175332146" stop="1617175332528" status="failed">
+			<name>As a user I can read data from JSON file</name>
+			<title>As a user I can read data from JSON file</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="b95deda3-2d38-4a82-9e5f-fd445a990e2c-attachment.png" type="image/png" size="8744"/>
+			</attachments>
+			<failure>
+				<message>Failed: uat is not iterable</message>
+				<stack-trace>TypeError: uat is not iterable
+    at UserContext.&lt;anonymous&gt; (C:\Users\nalla\Downloads\protractor-jasmine-typescript-master\Protractor_Typescript_Jasmine\test-suites\json-file-operation.spec.ts:16:26)
+    at C:\Users\nalla\Downloads\protractor-jasmine-typescript-master\Protractor_Typescript_Jasmine\node_modules\jasminewd2\index.js:112:25
+    at new Promise (&lt;anonymous&gt;)
+    at SimpleScheduler.promise (C:\Users\nalla\Downloads\protractor-jasmine-typescript-master\Protractor_Typescript_Jasmine\node_modules\selenium-webdriver\lib\promise.js:2242:12)
+    at schedulerExecute (C:\Users\nalla\Downloads\protractor-jasmine-typescript-master\Protractor_Typescript_Jasmine\node_modules\jasminewd2\index.js:95:18)
+    at promise (C:\Users\nalla\Downloads\protractor-jasmine-typescript-master\Protractor_Typescript_Jasmine\node_modules\selenium-webdriver\lib\promise.js:2232:22)
+    at new Promise (&lt;anonymous&gt;)
+    at SimpleScheduler.promise (C:\Users\nalla\Downloads\protractor-jasmine-typescript-master\Protractor_Typescript_Jasmine\node_modules\selenium-webdriver\lib\promise.js:2242:12)
+    at SimpleScheduler.execute (C:\Users\nalla\Downloads\protractor-jasmine-typescript-master\Protractor_Typescript_Jasmine\node_modules\selenium-webdriver\lib\promise.js:2227:17)
+    at UserContext.&lt;anonymous&gt; (C:\Users\nalla\Downloads\protractor-jasmine-typescript-master\Protractor_Typescript_Jasmine\node_modules\jasminewd2\index.js:94:19)
+From asynchronous test: 
+Error
+    at Suite.describe (C:\Users\nalla\Downloads\protractor-jasmine-typescript-master\Protractor_Typescript_Jasmine\test-suites\json-file-operation.spec.ts:7:5)
+    at addSpecsToSuite (C:\Users\nalla\Downloads\protractor-jasmine-typescript-master\Protractor_Typescript_Jasmine\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1107:25)
+    at Env.describe (C:\Users\nalla\Downloads\protractor-jasmine-typescript-master\Protractor_Typescript_Jasmine\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:1074:7)
+    at describe (C:\Users\nalla\Downloads\protractor-jasmine-typescript-master\Protractor_Typescript_Jasmine\node_modules\protractor\node_modules\jasmine-core\lib\jasmine-core\jasmine.js:4399:18)
+    at Object.&lt;anonymous&gt; (C:\Users\nalla\Downloads\protractor-jasmine-typescript-master\Protractor_Typescript_Jasmine\test-suites\json-file-operation.spec.ts:3:1)
+    at Module._compile (internal/modules/cjs/loader.js:799:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:810:10)
+    at Module.load (internal/modules/cjs/loader.js:666:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:606:12)</stack-trace>
+			</failure>
+		</test-case>
+		<test-case start="1617175332528" stop="1617175332529" status="pending">
+			<name>As a user I can read data from JSON file</name>
+			<title>As a user I can read data from JSON file</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+			<failure>
+				<message>This test has not been implemented yet</message>
+				<stack-trace></stack-trace>
+			</failure>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

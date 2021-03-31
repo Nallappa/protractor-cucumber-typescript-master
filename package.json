@@ -2,7 +2,7 @@
   "name": "test",
   "version": "1.0.0",
   "description": "This is Test Automation framework designed using Protractor, Jasmine and TypeScript",
-  "homepage": "https://github.com/qaloop/protractor-jasmine-typescript",
+  "homepage": "gitrepo",
   "main": "conf.js",
   "dependencies": {
     "allure-commandline": "^2.13.8",
@@ -10,19 +10,20 @@
     "crypto-js": "^4.0.0",
     "exceljs": "^1.15.0",
     "https": "^1.0.0",
-    "jasmine": "^3.6.4",
+    "jasmine": "^3.7.0",
     "jasmine-allure-reporter": "~0.2.3",
     "jasmine-data-provider": "^2.2.0",
     "jasmine-json-test-reporter": "^1.0.0-beta",
-    "jasmine-reporters": "^2.3.2",
+    "jasmine-reporters": "^2.4.0",
     "jasmine-spec-reporter": "^6.0.0",
     "jasmine2-protractor-utils": "^1.3.0",
-    "mysql": "^2.18.1",
+    "mysql": "^2.18.1", 
     "nodemailer": "^0.7.1",
     "papaparse": "^4.6.3",
     "protractor": "^5.4.4",
     "protractor-beautiful-reporter": "^1.3.6",
     "protractor-html-reporter-2": "^1.0.4",
+    "protractor-retry": "^2.0.1",
     "sendmail": "^1.6.1",
     "typescript": "^3.9.9",
     "webdriver-manager": "^12.1.8",
@@ -30,9 +31,9 @@
     "xlsx": "^0.16.9"
   },
   "devDependencies": {
-    "@types/jasmine": "^3.6.6",
+    "@types/jasmine": "^3.6.7",
     "@types/jasminewd2": "^2.0.8",
-    "@types/node": "^14.14.33",
+    "@types/node": "^14.14.35",
     "rimraf": "^2.7.1",
     "tslint": "^5.20.1"
   },
@@ -40,19 +41,28 @@
     "tsc": "tsc",
     "report1": "allure generate allure-results allure-report-html",
     "report": "allure generate allure-results --clean -o allure-report || true",
+    "allurereport" : "allure serve C:\\Users\\nalla\\Downloads\\protractor-jasmine-typescript-master\\Protractor_Typescript_Jasmine\\allure-results",
     "clean": "rimraf temp/ && rimraf download/",
     "webdriver-update": "node node_modules/protractor/bin/webdriver-manager update",
-    "compile": "npm run clean && npm run tsc",
+    "webdriver-start": "node node_modules/protractor/bin/webdriver-manager start",
+    "compile": "npm run clean && npm run tsc", 
     "testHeadLess": "npm run clean && npm run tsc && protractor temp/conf.js --capabilities.chromeOptions.args=--headless",
-    "test": "npm run clean && npm run tsc && protractor temp/conf.js --suite=%npm_package_config_suites% --capabilities.sharedTestFiles=true --capabilities.maxInstances=%npm_package_config_maxInstances%",
-    "test1": "npm run clean && npm run tsc && protractor temp/conf.js  --suite=%npm_package_config_suites% --capabilities.maxInstances=%npm_package_config_maxInstances%"
+    "test": "npm run clean && npm run tsc && protractor temp/conf.js  --params.report=%npm_package_config_report%  --suite=%npm_package_config_suites% --params.username=%npm_package_config_username%",
+    "test3": "npm run clean && npm run tsc && protractor temp/conf.js --suite=%npm_package_config_suites% --params.username=$npm_package_config_username",
+    "test1": "npm run clean && npm run tsc && protractor temp/conf.js --capabilities.browserName=%npm_package_config_browser% ",
+    "test2": "npm run clean && npm run tsc && protractor temp/conf.js --params.report=%npm_package_config_report% ",
+    "param1": "protractor temp/conf.js --params.username=%npm_package_config_username%",
+    "param2": "protractor temp/conf.js --params.config.username=%npm_package_config_username%" 
   },
   "config": {
-    "username": "user",
+    "username": "Nalli",
     "password": "password",
-    "suites": "jsonspec",
+    "suites": "jsonspec", 
     "suites1": "angularjsspec,jsonspec,superpec",
-    "maxInstances": 3
+    "maxInstances": 1,
+    "env" : "",
+    "browser" : "chrome",
+    "report" :"Allure"
   },
   "keywords": [
     "protractor",
@@ -71,6 +81,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qaloop/protractor-jasmine-typescript.git"
+    "url": "url"
   }
 }

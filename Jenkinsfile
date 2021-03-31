@@ -22,7 +22,6 @@ pipeline {
 
         stage('CHECKOUT'){
             steps{
-                deleteDir()
                 echo '${env.JOB_NAME}'
                 checkout([$class: 'GITSCM',branch :[[name : "*/${params.branch}"]]]), doGenerateSubModuleConfiguration: false,
                 extensions: [],  subModuleCfg:[], credentials : [[credentialsId : 'ssh', url : 'giturl']]])
@@ -33,7 +32,7 @@ pipeline {
             steps{
                   dir('e2e/Test'){
                       bat 'npm i'
-                      bat 'npm webdriver-update'
+                      bat 'npm run webdriver-update'
                       bat 'npm run compile'
                   }
             }
@@ -51,7 +50,7 @@ pipeline {
                                     }
                                
                                 }catch(e){
-                                   echo "There are some test failurs"
+                                   echo "There are some test failures"
                                 }
                               
                             }

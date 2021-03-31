@@ -141,7 +141,7 @@ export class uiElement {
                 finalElement = await element(by.partialButtonText(this.locatorvalue));
                 resolve(finalElement);
            } catch(error){
-             reject(`Error while forming the element with partialButtonText ${this.locatorvalue}`)
+             reject(`Error while forming the element with partialButtonText ${this.locatorvalue}`);
            }
         });
         return Element;
@@ -203,7 +203,7 @@ export class uiElement {
                 finalElement =  await this.cssElement();
             }
             else if( this.locatorname == "linkText" ){
-                finalElement =  await this.linkTextElement();
+                finalElement =  await this.linkTextElement(); 
             }
             else if( this.locatorname == "partialLinkText" ){
                 finalElement =  await this.partialLinkTextElement();

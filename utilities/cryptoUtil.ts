@@ -21,7 +21,7 @@ export module CryptoUtil  {
          return encryptedText;
     }
 
-    export function decrypt(cipherText: string, secretKey: string){
+    export function decrypt(cipherText: string, secretKey: string) : Promise<string> {
         let decryptedText = new Promise<string>(async (resolve,reject)=> {
             try{
                 let encryptedText = AES.decrypt(cipherText.toString(),secretKey.toString(),{

@@ -3,6 +3,7 @@ import {commonPageHelper, Logger} from '../index'
 import {isNullOrUndefined} from 'util';
 import {browser, ExpectedConditions, Key, logging} from 'protractor';
 import {join} from 'path';
+import { truncate } from 'fs/promises';
 
 export module BrowserDriver {
 
@@ -12,7 +13,7 @@ export module BrowserDriver {
             try {
                 await waitForAngularEnabled(true);
                 await deleteAllCookies();
-                await setPageLoadTimeout(60000);
+                // await setPageLoadTimeout(60000);
                 await setImplicitWaitTimeOut(60000);
                 await maximize();
                 resolve();
@@ -39,6 +40,20 @@ export function closeCurrentWindow(): Promise<void> {
     return closewindow;
 }
 
+
+export function getAllWindowHanldes(): Promise<string[]> {
+    let getWindowHanles = new Promise<string[]>(async (resolve,reject) => {
+        try {
+           let hanldles = await browser.getAllWindowHandles();
+            resolve(hanldles);
+        }
+        catch (error) {
+            Logger.error(`unable to fetch the window handles, Error : ${error}`);
+            reject('unable to fetch the window handles');
+        }
+    });
+    return getWindowHanles;
+}
 
 export function closeWindow(handleNameOrIndex : string | number): Promise<void> {
     let closewindow = new Promise<void>(async (resolve,reject) => {
@@ -90,7 +105,7 @@ export function swithchToFrame(frameIndex : number): Promise<void> {
     return swithFrame;
 }
 
-export function swithchToParentContent(frameIndex : number): Promise<void> {
+export function swithchToParentContent(): Promise<void> {
     let swithFrame = new Promise<void>(async (resolve,reject) => {
         try {
                await browser.switchTo().defaultContent();
@@ -132,21 +147,6 @@ export function setScriptsTimeout(timeOutInMilliSeconds : number): Promise<void>
     return swithFrame;
 }
 
-
-
-export function getAllWindowHanldes(): Promise<string[]> {
-    let getWindowHanles = new Promise<string[]>(async (resolve,reject) => {
-        try {
-           let hanldles = await browser.getAllWindowHandles();
-            resolve(hanldles);
-        }
-        catch (error) {
-            Logger.error(`unable to fetch the window handles, Error : ${error}`);
-            reject('unable to fetch the window handles');
-        }
-    });
-    return getWindowHanles;
-}
 
 
 export function maximize(): Promise<void> {
@@ -214,7 +214,7 @@ export function executeScript(script : string |Function, ...args :any[]): Promis
     return browserMaxixized;
 }
 
-export function quitSession(script : string |Function, ...args :any[]): Promise<void> {
+export function quitSession(): Promise<void> {
     let browserMaxixized = new Promise<void>(async (resolve,reject) => {
         try {
             await browser.close();
@@ -267,20 +267,20 @@ export function waitForAngularEnabled(enabled? : boolean): Promise<void> {
 }
 
 
-export function setPageLoadTimeout(timeOutInMilliSeconds : number): Promise<void> {
-    let setPageLoadTime = new Promise<void>(async (resolve,reject) => {
-        try {
-             await browser.manage().timeouts().pageLoadTimeout(timeOutInMilliSeconds);
-            resolve();
-        }
-        catch (error) {
-            Logger.error(`Error while setting the pageLoad Timeout ${timeOutInMilliSeconds} , Error : ${error}`);
-            reject('Error while setting the pageLoad Timeout');
-        }
+// export function setPageLoadTimeout(timeOutInMilliSeconds : number): Promise<void> {
+//     let setPageLoadTime = new Promise<void>(async (resolve,reject) => {
+//         try {
+//              await browser.manage().timeouts().pageLoadTimeout(timeOutInMilliSeconds);
+//             resolve();
+//         }
+//         catch (error) {
+//             Logger.error(`Error while setting the pageLoad Timeout ${timeOutInMilliSeconds} , Error : ${error}`);
+//             reject('Error while setting the pageLoad Timeout');
+//         }
 
-    });
-    return setPageLoadTime;
-}
+//     });
+//     return setPageLoadTime;
+// }
 
 
 export function refreshPage(opt_timeOut? : number): Promise<void> {

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1617174959740" stop="1617174960162">
+	<name>JSON File Operation Tests: </name>
+	<title>JSON File Operation Tests: </title>
+	<test-cases>
+		<test-case start="1617174959741" stop="1617174960159" status="passed">
+			<name>As a user I can read data from JSON file</name>
+			<title>As a user I can read data from JSON file</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="623516a9-7dff-4ec9-b31d-29440188d2e8-attachment.png" type="image/png" size="8744"/>
+			</attachments>
+		</test-case>
+		<test-case start="1617174960160" stop="1617174960162" status="pending">
+			<name>As a user I can read data from JSON file</name>
+			<title>As a user I can read data from JSON file</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+			</attachments>
+			<failure>
+				<message>This test has not been implemented yet</message>
+				<stack-trace></stack-trace>
+			</failure>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

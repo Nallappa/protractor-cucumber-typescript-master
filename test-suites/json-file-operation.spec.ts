@@ -1,64 +1,59 @@
+import { browser, element, by, protractor } from "protractor";
 
-  const fs = require('fs');
-import { browser } from 'protractor';
-const using = require('jasmine-data-provider');
-  import { BrowserDriver, uiElement, uiElements,DataBaseUtil,Logger,serviceUtil} from '../index';
-  const data = JSON.parse(fs.readFileSync('test-data\\test-data.json'));
-  const data1 = JSON.parse(fs.readFileSync('locators\\sample_locator.json'));
-  const dbObject =new DataBaseUtil();
-  const serObject = new serviceUtil();
-
-beforeAll( async() => {
-    await BrowserDriver.navigateTo(data.url);
-});
- 
 describe('JSON File Operation Tests: ', () => {
 
-    xit('As a user I can read data from JSON file', async function () {
+    browser.ignoreSynchronization = true; // This is for non-angular websites
 
-    //Testing uiElement
-        let textboxlement = await new uiElement(data1.testelement.locatorType,data1.testelement.locatorValue);
-        await textboxlement.waitTillVisible(5000);
-        await textboxlement.EnterText('2');
-    //Testing uiElement
-        let textboxlements = await new uiElements(data1.testelement1.locatorType,data1.testelement1.locatorValue);
-        let values = await textboxlements.getTextValues();
-        let count = await textboxlements.count();
-        Logger.info(`The values are ${values}`);
-        Logger.info(`The count is ${count}`);
-    //Testing dbConnection
-    Logger.info(`Db Connection Starts}`);
-         await dbObject.connectToDb();
-         let dbresults = await dbObject.getDbResults();
-         Logger.info(`The db results are ${dbresults}`);
-         await dbObject.closeDbConnection();
-    })
-    
-    xit('Testing Webservices', async function () {
-      //Get
-      console.log(browser.params.login.user);
-      console.log(browser.params.login.password);
-     let response =  await serObject.getResponse(data.options);
-     console.log(await response.status);
-     console.log(await response.data);
-    //  //Post
-     let responsepost =  await serObject.getResponse(data.optionspost);
-     console.log(await responsepost.status);
-     console.log(await responsepost.data);
-    //Post
-      let responseput =  await serObject.getResponse(data.optionsput);
-      console.log(await responseput);
-      console.log(await responseput.status);
-      console.log(await responseput.data);
-    });
+    it('As a user I can read data from JSON file', function () {
 
-    using(["Nali","Pavi","Amma"],function(data){
-      fit('Testing Dataprovider', async function () {
-        //Get
-        console.log(data);
-      });
+        // set implicit time to 30 seconds
+        // browser.manage().timeouts().implicitlyWait(30000);
+
+        // navigate to the url
+        // browser.get("https://google.com");
+        // console.log(browser.params.config.uat.env)
+        // username
+        //npm run test appUrl='Test'
+        console.log(browser.params.username);
+        console.log(browser.params.config.username);
+        console.log(browser.params.config.browser);
+        console.log(browser.params.config.report);
+        // let uat = browser.params.config.uat;
+        // console.log()
+        // for(let value of uat) {
+        //     console.log(value.env);
+        //     console.log(value.usermname);
+        //     console.log(value.password);
+        // }
+
     })
 
+    xit('As a user I can read data from JSON file', function () {
 
+        // set implicit time to 30 seconds
+        browser.manage().timeouts().implicitlyWait(30000);
+
+        // navigate to the url
+        browser.get("https://google.com");
+
+        // import the fs module
+        const fs = require('fs');
+
+        // read the file into raw data
+        let rawdata = fs.readFileSync('test-data\\test-data.json');
+
+        // parse the raw data into meaningful JSON format
+        let data = JSON.parse(rawdata);
+
+        let urlValue = data["url"];
+        console.log("URL value from JSON file is: " + urlValue);
+
+        // enter url value
+        element(by.name("q")).sendKeys(urlValue);
+
+        // hit enter key
+        browser.actions().sendKeys(protractor.Key.ENTER).perform();
+
+    })
 
 });

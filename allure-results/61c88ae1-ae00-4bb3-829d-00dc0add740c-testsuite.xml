@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1617172706158" stop="1617172725960">
+	<name>Super Calculator Website Tests: </name>
+	<title>Super Calculator Website Tests: </title>
+	<test-cases>
+		<test-case start="1617172706158" stop="1617172709926" status="passed">
+			<name>As a user, I can verify Super Calculator page title</name>
+			<title>As a user, I can verify Super Calculator page title</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="d9310f30-d894-4483-86fc-cf9d077f7893-attachment.png" type="image/png" size="20820"/>
+			</attachments>
+		</test-case>
+		<test-case start="1617172709926" stop="1617172715360" status="passed">
+			<name>As a user, I can verify Super Calculator can do addition</name>
+			<title>As a user, I can verify Super Calculator can do addition</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="9e388186-7818-4191-89f3-33772326d472-attachment.png" type="image/png" size="23468"/>
+			</attachments>
+		</test-case>
+		<test-case start="1617172715360" stop="1617172725959" status="passed">
+			<name>As a user, I can verify Super Calculator can do division</name>
+			<title>As a user, I can verify Super Calculator can do division</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="54a26394-05d6-4405-84a1-75fcf8a99c0c-attachment.png" type="image/png" size="24273"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

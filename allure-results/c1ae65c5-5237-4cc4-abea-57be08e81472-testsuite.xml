@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1617172796397" stop="1617172796919">
+	<name>JSON File Operation Tests: </name>
+	<title>JSON File Operation Tests: </title>
+	<test-cases>
+		<test-case start="1617172796397" stop="1617172796915" status="passed">
+			<name>As a user I can read data from JSON file</name>
+			<title>As a user I can read data from JSON file</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="22f09974-96af-415d-a910-d30989a2bf5e-attachment.png" type="image/png" size="8744"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

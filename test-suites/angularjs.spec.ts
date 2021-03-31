@@ -1,38 +1,31 @@
 import { protractor, browser } from "protractor";
 import { angularjsPageHelper } from "../page-objects/pages/angularjs/angularjs.helper";
 import { angularjsPageObjects } from "../page-objects/pages/angularjs/angularjs.po";
-// import { commonPageHelper } from "../page-objects/common/common.helper";
+import { commonPageHelper } from "../page-objects/common/common.helper";
 import { angularjsPageConstants } from "../page-objects/pages/angularjs/angularjs.constants";
-import {commonPageHelper, Logger, BrowserDriver} from '../index'
-
-beforeAll( async() => {
-    await BrowserDriver.navigateTo('https://angularjs.org/');
-});
 
 describe('AngularJS Website Tests: ', () => {
-  
+
     it('As a user I can navigate to AnglarJS Website', async function () {
-        // await browser.get('https://angularjs.org/');
-        await Logger.info('User is navigated to AngularJS Website');
+        await browser.get('https://angularjs.org/');
+        await console.log('User is navigated to AngularJS Website');
     });
 
     it('As a user I can Maximize Browser Window', async function () {
-        // await browser.get('https://angularjs.org/');
+        await browser.get('https://angularjs.org/');
         await console.log('User is navigated to AngularJS Website');
         await browser.manage().window().maximize();
         await console.log('Browser window is miximized');
     });
 
-   it('As a user I can get Browser Window size', async function () {
-        // await browser.get('https://angularjs.org/');
-        // var browserSize = await browser.manage().window().getSize().then(function (windowSize) {
-        //     // promise resolving block
-        //     console.log('Browser window width: ' + windowSize.width);
-        //     console.log('Browser window height: ' + windowSize.height);
-        // });
-        var windowSize = await browser.manage().window().getSize();
-        Logger.info('Browser window width: ' + windowSize.width);
-        Logger.info('Browser window height: ' + windowSize.height);
+    it('As a user I can get Browser Window size', async function () {
+        await browser.get('https://angularjs.org/');
+        await console.log('User is navigated to AngularJS Website');
+        var browserSize = await browser.manage().window().getSize().then(function (windowSize) {
+            // promise resolving block
+            console.log('Browser window width: ' + windowSize.width);
+            console.log('Browser window height: ' + windowSize.height);
+        });
     });
 
     it('As a user I can Set Window Position', async function () {
@@ -59,7 +52,7 @@ describe('AngularJS Website Tests: ', () => {
         await commonPageHelper.verifyCurrentUrl(angularjsPageConstants.content.URL);
     });
 
-    fit('As a user I can verify Page Title', async function () {
+    it('As a user I can verify Page Title', async function () {
         await angularjsPageHelper.get();
         await commonPageHelper.verifyPageTitle(angularjsPageConstants.content.pageTitle);
     });

@@ -1,12 +1,19 @@
 var path = require('path');
 
-import { browser, by, element } from "protractor";
+
+const fs = require('fs');
 import { commonPageObjects } from "./common.po";
 import { commonPageConstants } from "./common.constants";
 import { theInternetPageConstants } from "../pages/the-internet/the-internet.constants";
+const data1 = JSON.parse(fs.readFileSync('locators\\sample_locator.json'));
 
-export class commonPageHelper {
+import { browser, element, by } from 'protractor';
+const using = require('jasmine-data-provider');
+import { BrowserDriver, uiElement, uiElements, DataBaseUtil, Logger, serviceUtil } from '../../index';
 
+export class commonPageHelper { 
+    // let textboxlement = await new uiElement(data1.testelement.locatorType, data1.testelement.locatorValue);
+     
     static async clickOnAnchorText(text: string) {
         await commonPageObjects.clickOnAnchorText(text).click();
         await console.log('Click on Text');
@@ -20,10 +27,13 @@ export class commonPageHelper {
     }
 
     static async verifyTextInH3(text: string) {
-        const pageText = await commonPageObjects.getTextFromH3(text).getText();
-        await console.log('Got text: ' + pageText);
-        expect(pageText).toEqual(text);
-        await console.log('Verified text on page');
+        // let textboxlement = await new uiElement(data1.testelement.locatorType, data1.testelement.locatorValue);
+        // await textboxlement.waitTillVisible(5000);
+        // await textboxlemen.is
+        // const pageText = await commonPageObjects.getTextFromH3(text).getText();
+        // await console.log('Got text: ' + pageText);
+        // expect(pageText).toEqual(text);
+        // await console.log('Verified text on page');
     }
 
     static async verifyTextInPara(text: string) {

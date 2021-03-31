@@ -1,30 +1,12 @@
 [
   {
-    "description": "JSON File Operation Tests:  Testing Dataprovider",
+    "description": "JSON File Operation Tests:  As a user I can read data from JSON file",
     "assertions": [
       {
         "passed": true
       }
     ],
-    "duration": 3
-  },
-  {
-    "description": "JSON File Operation Tests:  Testing Dataprovider",
-    "assertions": [
-      {
-        "passed": true
-      }
-    ],
-    "duration": 454
-  },
-  {
-    "description": "JSON File Operation Tests:  Testing Dataprovider",
-    "assertions": [
-      {
-        "passed": true
-      }
-    ],
-    "duration": 308
+    "duration": 59
   },
   {
     "description": "JSON File Operation Tests:  As a user I can read data from JSON file",
@@ -33,15 +15,6 @@
         "passed": true
       }
     ],
-    "duration": 2
-  },
-  {
-    "description": "JSON File Operation Tests:  Testing Webservices",
-    "assertions": [
-      {
-        "passed": true
-      }
-    ],
-    "duration": 0
+    "duration": 8
   }
 ]

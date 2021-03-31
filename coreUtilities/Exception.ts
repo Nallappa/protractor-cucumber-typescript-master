@@ -10,5 +10,7 @@ export class Exception extends Error {
          Logger.error('Error: ' + this.message)
       }
    }
+
+
   
 }

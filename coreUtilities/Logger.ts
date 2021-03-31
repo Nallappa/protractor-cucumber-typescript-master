@@ -20,7 +20,7 @@ import { createLogger, format, transports} from 'winston';
               format.colorize({ all : true})
           )
       });
-
+ 
       export function error(message : string) {
         logger.error(new Date().toTimeString() + "Message" + message);
         

@@ -1,7 +1,8 @@
 
 //https://medium.com/@nomanibrahim7/how-i-can-access-the-database-from-protractor-d03a15df91f3
 
-const mysql = require("mysql"); 
+// const mysql = require("mysql"); 
+import mysql from 'mysql'
 import {Logger} from '../index';
 let connection = mysql.createConnection({
     host : 'localhost',

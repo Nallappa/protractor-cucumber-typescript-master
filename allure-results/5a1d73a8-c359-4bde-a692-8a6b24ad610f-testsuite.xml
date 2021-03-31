@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1617172796946" stop="1617172818813">
+	<name>Super Calculator Website Tests: </name>
+	<title>Super Calculator Website Tests: </title>
+	<test-cases>
+		<test-case start="1617172796946" stop="1617172804871" status="passed">
+			<name>As a user, I can verify Super Calculator page title</name>
+			<title>As a user, I can verify Super Calculator page title</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="3ea3eb32-b1de-46ed-b816-df82e3c12ac0-attachment.png" type="image/png" size="20820"/>
+			</attachments>
+		</test-case>
+		<test-case start="1617172804871" stop="1617172809486" status="passed">
+			<name>As a user, I can verify Super Calculator can do addition</name>
+			<title>As a user, I can verify Super Calculator can do addition</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="346518ca-60f3-44f8-ae50-c60b978a45fe-attachment.png" type="image/png" size="23331"/>
+			</attachments>
+		</test-case>
+		<test-case start="1617172809486" stop="1617172818813" status="passed">
+			<name>As a user, I can verify Super Calculator can do division</name>
+			<title>As a user, I can verify Super Calculator can do division</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="c5d86cda-b5a2-475e-a510-d5d2ecd21482-attachment.png" type="image/png" size="23971"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

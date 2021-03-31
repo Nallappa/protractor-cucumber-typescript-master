@@ -3,6 +3,7 @@
     import { browser } from 'protractor';
     import { Logger, BrowserDriver,EmailUtility} from './index'
     declare const allure: any;
+    var retry = require('protractor-retry').retry;
 	// Require protractor-beautiful-reporter to generate reports.
 	let HtmlReporter = require('protractor-beautiful-reporter');
     // let AllureReporter = require('jasmine-allure-reporter');
@@ -14,6 +15,8 @@
     import HTMLReport from 'protractor-html-reporter-2';
     const suites = require(join(process.cwd(), 'suites.json'));
     let suitesAll = {};
+    let config = require('./globalParams');
+  
 
     for(let suite in suites){
         Logger.info(suites[suite])
@@ -23,7 +26,8 @@
   
 
 exports.config = {
-    chromeOnly:true,
+    // chromeOnly:true,
+     // The address of a running selenium server.
     directConnect: true,
 
     // multiCapabilities : [{
@@ -34,22 +38,22 @@ exports.config = {
     //      }
     // ],
 
-   // Capabilities to be passed to the webdriver instance.
+//    Capabilities to be passed to the webdriver instance.
     capabilities: {
-        'browserName': 'chrome',
-        'maxInstances': 3,
-        chromeOptions: {
-            args: ['--allow-file-access-from-files','--disable-gpu','--disable-web-security','disable-info-bars-true','same-site-by-default-cookies@1','--ignore-certifcate-errors'],
-        },
-        prefs: {
-            download : {
-               'prompt_for_download' : false,
-               'directory_upgrade' : true,
-               'default_directory' : '<DIRECTORY>' 
-            }
+        "browserName": "chrome",
+        shardTestFiles : true,
+        maxInstances: 3
+        // chromeOptions: {
+        //     args: ['--allow-file-access-from-files','--disable-gpu','--disable-web-security','disable-info-bars-true','same-site-by-default-cookies@1','--ignore-certifcate-errors'],
+        // },
+        // prefs: {
+        //     download : {
+        //        'prompt_for_download' : false,
+        //        'directory_upgrade' : true,
+        //        'default_directory' : '<DIRECTORY>' 
+        //     }
 
-        },
-
+        // },
 
     }, 
  
@@ -64,12 +68,16 @@ exports.config = {
         login: {
           user: 'test',
           password: 'pwd'
-        }
+        },
+        username: "TestUsername",
+        password: "appa",
+        env: "Test",
+        config :config
       },
 
-      suites : suitesAll,
-    // specs: ["../temp/test-suites/json-file-operation.spec.js"],
-    // specs: ['./temp/test-suites/dbconnection.spec.js'],
+    //   suites : suitesAll,
+    specs: ["../temp/test-suites/json-file-operation.spec.js"],
+    // specs: ['./temp/test-suites/*.spec.js'],
 
     // suites: {
     //     angularjsspec: ["../temp/test-suites/first-test.spec.js"],
@@ -96,19 +104,38 @@ exports.config = {
 
     onPrepare: async () => {
         Logger.info('This is on Prepare');
+        // browser.config = config;
+        retry.onPrepare();
         await BrowserDriver.initializeBrowser();
-     
-        jasmine.getEnv().addReporter(new HtmlReporter({
-            baseDirectory: 'test-results',
-            preserveDirectory: false, // Preserve base directory
-            screenshotsSubfolder: 'screenshots',
-            jsonsSubfolder: 'jsons', // JSONs Subfolder
-            takeScreenShotsForSkippedSpecs: true, // Screenshots for skipped test cases
-            takeScreenShotsOnlyForFailedSpecs: false, // Screenshots only for failed test cases
-            docTitle: 'Test Automation Execution Report', // Add title for the html report
-            docName: 'TestResult.html', // Change html report file name
-            gatherBrowserLogs: true // Store Browser logs
-        }).getJasmine2Reporter());
+
+        if(browser.params.report === 'Allure') {
+            jasmine.getEnv().addReporter(new AllureReporter({
+                    resultsDir: 'allure-results'
+                }));
+
+            jasmine.getEnv().afterEach(function(done){
+                browser.takeScreenshot().then(function (png) {
+                    allure.createAttachment('Screenshot', function () {
+                    return new Buffer(png, 'base64')
+                    }, 'image/png')();
+                    done();
+                })
+                });
+            }
+
+            if(browser.params.report === 'Beautiful') {
+                jasmine.getEnv().addReporter(new HtmlReporter({
+                    baseDirectory: 'test-results',
+                    preserveDirectory: false, // Preserve base directory
+                    screenshotsSubfolder: 'screenshots',
+                    jsonsSubfolder: 'jsons', // JSONs Subfolder
+                    takeScreenShotsForSkippedSpecs: true, // Screenshots for skipped test cases
+                    takeScreenShotsOnlyForFailedSpecs: false, // Screenshots only for failed test cases
+                    docTitle: 'Test Automation Execution Report', // Add title for the html report
+                    docName: 'TestResult.html', // Change html report file name
+                    gatherBrowserLogs: true // Store Browser logs
+                }).getJasmine2Reporter());
+            }
         
       jasmine.getEnv().addReporter(new JSONReporter({
           file: 'jasmine-test-results.json',
@@ -119,8 +146,14 @@ exports.config = {
 
     afterLaunch : async ()  =>{
         Logger.info('This is in after launch');
+        // return retry.afterLaunch(2);
         // await EmailUtility.senEmail();
     },
+
+    onCleanUp : async() =>function(results) {
+        Logger.info('This is on clean up');
+        // retry.onCleanUp(results);
+    }
 
 }
 
