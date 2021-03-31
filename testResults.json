@@ -6,7 +6,7 @@
         "passed": true
       }
     ],
-    "duration": 59
+    "duration": 19
   },
   {
     "description": "JSON File Operation Tests:  As a user I can read data from JSON file",
@@ -15,6 +15,6 @@
         "passed": true
       }
     ],
-    "duration": 8
+    "duration": 1
   }
 ]

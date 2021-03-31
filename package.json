@@ -47,7 +47,7 @@
     "webdriver-start": "node node_modules/protractor/bin/webdriver-manager start",
     "compile": "npm run clean && npm run tsc", 
     "testHeadLess": "npm run clean && npm run tsc && protractor temp/conf.js --capabilities.chromeOptions.args=--headless",
-    "test": "npm run clean && npm run tsc && protractor temp/conf.js",
+    "test": "npm run clean && npm run tsc && protractor temp/conf.js --suite=%npm_package_config_suites%",
     "test4": "npm run clean && npm run tsc && protractor temp/conf.js  --params.report=%npm_package_config_report%  --suite=%npm_package_config_suites% --params.username=%npm_package_config_username%",
     "test3": "npm run clean && npm run tsc && protractor temp/conf.js --suite=%npm_package_config_suites% --params.username=$npm_package_config_username",
     "test1": "npm run clean && npm run tsc && protractor temp/conf.js --capabilities.browserName=%npm_package_config_browser% ",

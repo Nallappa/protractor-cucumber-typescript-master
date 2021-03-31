@@ -372,3 +372,11 @@
 [32minfo: 13:19:54 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
 [32minfo: 13:19:54 GMT+0530 (India Standard Time)MessageThis is on complete[39m
 [32minfo: 13:19:55 GMT+0530 (India Standard Time)MessageThis is in after launch[39m
+[32minfo: 14:32:21 GMT+0530 (India Standard Time)Message../temp/test-suites/first-test.spec.js[39m
+[32minfo: 14:32:21 GMT+0530 (India Standard Time)Message../temp/test-suites/json-file-operation.spec.js[39m
+[32minfo: 14:32:21 GMT+0530 (India Standard Time)Message../temp/test-suites/super-calculator.spec.js[39m
+[32minfo: 14:32:21 GMT+0530 (India Standard Time)MessageThe suites are [object Object][39m
+[32minfo: 14:32:21 GMT+0530 (India Standard Time)MessageThis is in before launch[39m
+[32minfo: 14:32:26 GMT+0530 (India Standard Time)MessageThis is on Prepare[39m
+[32minfo: 14:32:26 GMT+0530 (India Standard Time)MessageThis is on complete[39m
+[32minfo: 14:32:27 GMT+0530 (India Standard Time)MessageThis is in after launch[39m

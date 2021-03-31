@@ -75,8 +75,8 @@ exports.config = {
         config :config
       },
 
-    //   suites : suitesAll,
-    specs: ["../temp/test-suites/json-file-operation.spec.js"],
+      suites : suitesAll,
+    // specs: ["../temp/test-suites/json-file-operation.spec.js"],
     // specs: ['./temp/test-suites/*.spec.js'],
 
     // suites: {
